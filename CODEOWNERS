@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Kingthnight
+/src/backend/database.py      @Kingthnight
+/src/backend/routers/auth.py  @Kingthnight
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Kingthnight
